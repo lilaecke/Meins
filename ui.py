@@ -1,15 +1,7 @@
 from sys import exit
 from random import shuffle
 from time import sleep
-from impl import mixcards
-from impl import carddeck
-from impl import deletequartet
-from impl import drawcard
-from impl import checkifend
-from impl import drawfromdeck
-from impl import intinput
-from impl import getcard
-from impl import randomcard
+from impl import mixcards, carddeck, deletequartet, drawcard, checkifend, drawfromdeck, intinput, getcard, randomcard
 from pprint import pprint
 
 
