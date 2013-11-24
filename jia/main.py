@@ -38,6 +38,11 @@ def restart(x):
     else:
         return x
 
+def myinput(question):
+    q = input(question)
+    if q == "restart" ...
+    if q == "exit" ...
+
 
 def quartett():
     #Deckerstellung
